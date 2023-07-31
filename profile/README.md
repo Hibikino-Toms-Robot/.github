@@ -2,10 +2,12 @@
 
 We are Kyushu Institute of Technology Tomatrobot Circle Hibikino-Toms
 
-**Here are some ideas to get you started:**
+## 📫 How to contact 
+[Hibikino-Toms webpage](https://www.brain.kyutech.ac.jp/~agricultural-robotics/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## Our Purpose
+To contribute to the automation of agriculture, we are developing an automatic principal robot to automate the tomato harvesting process.
+Also, one of our goals is to win a competition being held in December.
+[Tomato Robot Competition](https://www.lsse.kyutech.ac.jp/~sociorobo/tomato-robot2022/)
+![image](https://github.com/Hibikino-Toms-Robot/.github/assets/82552894/7e4bfa67-f7fe-4fb9-9e63-6c14aaa4f00f)
+
