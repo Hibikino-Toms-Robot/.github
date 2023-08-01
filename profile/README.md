@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Kyushu Institute of Technology Tomatrobot Circle "Hibikino-Toms"
+We are Kyushu Institute of Technology Tomato robot Circle "Hibikino-Toms"
 
 ## 📫 How to contact 
 [Hibikino-Toms webpage](https://www.brain.kyutech.ac.jp/~agricultural-robotics/)
