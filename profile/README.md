@@ -4,7 +4,8 @@ We are Kyushu Institute of Technology Tomato robot Circle "Hibikino-Toms"
 
 ## 📫 How to contact 
 [Hibikino-Toms webpage](https://www.brain.kyutech.ac.jp/~agricultural-robotics/)
-
+[yasukawa_lab](http://www.brain.kyutech.ac.jp/~s-yasukawa/)
+[ishii_lab](http://www.brain.kyutech.ac.jp/~ishii/?link,272)
 ## Our Purpose
 To contribute to the automation of agriculture, we are developing an automatic principal robot to automate the tomato harvesting process.
 Also, one of our goals is to win a competition being held in December.
