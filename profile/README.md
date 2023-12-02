@@ -1,5 +1,5 @@
 ## Hi there 👋
-私達は九州工業大学大学院　トマトロボットサークル「Hibikino-Toms」です。
+私達は九州工業大学大学院　トマトロボットサークル「Hibikino-Toms」です。　　
 We are Kyushu Institute of Technology Tomato robot Circle "Hibikino-Toms"
 
 ## 📫 contact 
