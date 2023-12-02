@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+私達は九州工業大学大学院　トマトロボットサークル「Hibikino-Toms」です。
 We are Kyushu Institute of Technology Tomato robot Circle "Hibikino-Toms"
 
-## 📫 How to contact 
+## 📫 contact 
 [Hibikino-Toms webpage](https://www.brain.kyutech.ac.jp/~agricultural-robotics/)  
 [yasukawa_lab](http://www.brain.kyutech.ac.jp/~s-yasukawa/)  
 [ishii_lab](http://www.brain.kyutech.ac.jp/~ishii/?link,272)  
